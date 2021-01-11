@@ -61,7 +61,7 @@ Namespace DXSample.ViewModels
 				SetValue(value)
 			End Set
 		End Property
-		Public Property TargetName() As String
+		Public Property TargetName() As String Implements IMVVMDockingProperties.TargetName
 			Get
 				Return GetValue(Of String)()
 			End Get

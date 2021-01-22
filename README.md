@@ -4,7 +4,7 @@ You can use the **IMVVMDockingProperties** to populate and existing dock panels 
 
 *Files to look at*:
 
-* [MainView.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/CS/DXSample/Views/MainView.xaml) (**VB**: [MainView.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/VB/DXSample/Views/MainView.xaml))
+* [MainWindow.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/CS/DXSample/MainWindow.xaml) (**VB**: [MainWindow.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/VB/DXSample/MainWindow.xaml))
 
 * [MainViewModel.cs](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/CS/DXSample/ViewModels/MainViewModel.cs) (**VB**: [MainViewModel.vb](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/VB/DXSample/ViewModels/MainViewModel.vb))
 

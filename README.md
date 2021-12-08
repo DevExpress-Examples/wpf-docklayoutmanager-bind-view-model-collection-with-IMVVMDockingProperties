@@ -9,8 +9,8 @@ You can use the **IMVVMDockingProperties** to populate and existing dock panels 
 
 *Files to look at*:
 
-* [MainWindow.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/CS/DXSample/MainWindow.xaml) (**VB**: [MainWindow.xaml](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/VB/DXSample/MainWindow.xaml))
+* [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (**VB**: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
 
-* [MainViewModel.cs](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/CS/DXSample/ViewModels/MainViewModel.cs) (**VB**: [MainViewModel.vb](https://github.com/DevExpress-Examples/docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties/blob/20.2.3%2B/VB/DXSample/ViewModels/MainViewModel.vb))
+* [MainViewModel.cs](./CS/DXSample/ViewModels/MainViewModel.cs) (**VB**: [MainViewModel.vb](./VB/DXSample/ViewModels/MainViewModel.vb))
 
 Refer to the [MVVM Support - Bind to a Collection of Dock Panels](https://docs.devexpress.com/WPF/11386/#existing-dock-panels) documentation topic for more information on how to bind a ViewModel collection to the **DockLayoutManager**.

@@ -10,11 +10,12 @@ You can use the **IMVVMDockingProperties** to populate and existing dock panels 
 
 ![image](https://user-images.githubusercontent.com/12169834/174008702-2b5ec402-0278-46a1-a25a-ad3f839d22d9.png)
 
+<!-- default file list -->
 ## Files to Look At:
 
 * [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (**VB**: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
 * [MainViewModel.cs](./CS/DXSample/ViewModels/MainViewModel.cs) (**VB**: [MainViewModel.vb](./VB/DXSample/ViewModels/MainViewModel.vb))
-
+<!-- default file list end -->
 
 ## Documentation
 

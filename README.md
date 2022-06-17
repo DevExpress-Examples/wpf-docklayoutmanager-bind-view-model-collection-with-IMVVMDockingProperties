@@ -5,7 +5,7 @@
 
 # WPF Dock Layout Manager - Bind the View Model Collection with IMVVMDockingProperties
 
-You can use the **IMVVMDockingProperties** to populate and existing dock panels with a ViewModel collection. In this approach, the ViewModel should implement the  **IMVVMDockingProperties** interface. The **TargetName** property should return the name of the target layout group where DockLayoutManager places the created dock panel.
+You can use **IMVVMDockingProperties** to populate existing dock panels with a ViewModel collection. In this technique, the ViewModel should implement the **IMVVMDockingProperties** interface. The **TargetName** property should return the name of the target layout group where DockLayoutManager places the created dock panel.
 
 ![image](https://user-images.githubusercontent.com/12169834/174008702-2b5ec402-0278-46a1-a25a-ad3f839d22d9.png)
 

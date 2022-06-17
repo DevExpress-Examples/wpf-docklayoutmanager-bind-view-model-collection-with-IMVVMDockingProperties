@@ -23,5 +23,5 @@ You can use **IMVVMDockingProperties** to populate existing dock panels with a V
 ## More Examples
 
 - [WPF Dock Layout Manager - Bind the View Model Collection with LayoutAdapters](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-bind-view-model-collection-with-layoutadapters)
-- [WPF Dock Layout Manager - Populate a LayoutGroup with the ViewModels collection](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-display-viewmodels-collection-in-layoutgroup)
+- [WPF Dock Layout Manager - Populate a LayoutGroup with the ViewModels Collection](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-display-viewmodels-collection-in-layoutgroup)
 - [WPF Dock Layout Manager - Use Services That Implement the IDocumentManagerService Interface](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-use-services-that-implement-the-idocumentmanagerservice)
